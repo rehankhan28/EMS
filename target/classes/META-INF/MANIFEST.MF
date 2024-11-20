@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: REHAN
+Build-Jdk: 21.0.4
+Implementation-Title: EMS
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.durga
+Implementation-URL: https://spring.io/projects/spring-boot/EMS
+Created-By: Maven Integration for Eclipse
+
